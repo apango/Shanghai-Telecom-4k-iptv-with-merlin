@@ -42,7 +42,7 @@ echo
 #脚本提示
 echo 正在修改ss dnsmasq配置文件
 #移动到ss dnsmasq目录
-cd /koolshare/ss/redchn
+cd /koolshare/ss/rules
 #删除旧配置文件
 echo 正在删除旧文件
 rm -rf dnsmasq.postconf
